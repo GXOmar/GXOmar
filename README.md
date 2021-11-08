@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Django or Flask projects
 - 📫 How to reach me ...
     * Email: pysoftengineer@hotmail.com
-    * LinkedIn: https://www.linkedin.com/in/omar-shaikh-sobuh-b37724216/
+    * LinkedIn: https://www.linkedin.com/in/omar-shaikh-sobuh-65a149203/
     * Discord: Omar#1599
       
 
