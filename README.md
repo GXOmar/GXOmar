@@ -1,13 +1,14 @@
 *...About Me...*
-- 👋 Hi, My name is Omar
-- 👀 I’m interested in Front end and Back end Web Develoment
-- favorite hobbies: Hiking, Bicycle, Swimming, Basketball, and I LOVE VIDEO GAMES <3
-- 🌱 I’m currently learning Python, HTML and CSS
-- 💞️ I’m looking to collaborate on Django or Flask projects
+- 👋 Hi, My name is Omar.
+- 📚 I am a **Full Stack Developer** with the spirit of creation and problem-solving skills.
+- 🎯 I love using my skills to solve people's real-world problems and make their day-to-day job a much easier and more enjoyable process.
+- 💻 Experienced in web scraping and web automation using **Python** whether it's a dynamic website, static pages, or single-page apps(SPAs).
+- 🔥 Passionate about programming, Networking, Cyber security, and Ethical Hacking.
 - 📫 How to reach me ...
+    * Portfolio: https://omar-sh.netlify.app
     * Email: pysoftengineer@hotmail.com
     * LinkedIn: https://www.linkedin.com/in/omar-shaikh-sobuh-65a149203/
-    * Discord: Omar#1599
+    * let's chat together on [Discord](https://bit.ly/3TznGe1)
       
 
 <!---
